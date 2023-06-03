@@ -1,5 +1,10 @@
 # ClaseIAPUJ2023
-Aprendiendo a usar README
+En este repocitorio podrás encontrar el desrrollo del proyecto con su respectiva documentación, código 
+debidamente comentado y un video explicativo de cada código que se hizo.
+
+Para facilitar la vista de código al lector, comparto el link a mi Colab para que puedan ingresar y visualizarlo.  
+
+https://colab.research.google.com/drive/1Lgo12uAsL78rKRydGisg_vAWLLF-UzEW?usp=sharing
 
 Hoy en día podemos apreciar como el mercado es muy volátil por diversos temas, políticos, ambientales y sociales, todas estas cosas afectan nuestros bolsillos, pues nuestros bienes y cambian su valor con respecto a eso.
 
