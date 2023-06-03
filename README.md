@@ -6,6 +6,11 @@ Para facilitar la vista de código al lector, comparto el link a mi Colab para q
 
 https://colab.research.google.com/drive/1Lgo12uAsL78rKRydGisg_vAWLLF-UzEW?usp=sharing
 
+Video Explicativo del Codigo:
+https://youtu.be/n5KJsvZcF_M
+
+
+
 Hoy en día podemos apreciar como el mercado es muy volátil por diversos temas, políticos, ambientales y sociales, todas estas cosas afectan nuestros bolsillos, pues nuestros bienes y cambian su valor con respecto a eso.
 
 Esto supone un gran problema para todos nosotros, pues cuando nos hemos esforzado por comprar cosas el mercado va cambiando su valor, un breve ejemplo y muy común es una casa, un apartamento o un carro.
